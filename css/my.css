@@ -1,0 +1,19 @@
+video{
+  width: 100%;
+}
+@media (max-width: 768px) {
+/*.navbar-toggle{
+  float: none !important;
+  margin: 0 !important;
+}
+.promo-block{
+  display: none !important;
+}
+
+
+
+.content-md{
+  padding: 0 !important;
+}*/
+
+}
